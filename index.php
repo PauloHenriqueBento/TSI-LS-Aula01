@@ -15,11 +15,11 @@
  if( $nome == 'Paulo') {
     echo '<br><br> O nome é igual';
  }else{
-     echo '<br><br> Nome diferente'
+     echo '<br><br> Nome diferente';
  }
 
  for ( $i = 0; $i < 10; $i++){
-     echo "Linha $i <br>"
+     echo "Linha $i <br>";
  }
 
  echo '<br> 2 + 2 =' . (2 +2) . '!';
